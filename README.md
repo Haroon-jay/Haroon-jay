@@ -11,7 +11,7 @@
 
 ## It's me! Haroon Jawad.
 #### I'm a Fullstack JavaScript developer 
-#### *I'm Passionate about Web development, Web analytics, Software Design*
+#### *Passionate about Web development, Web analytics, Software Design*
 ## More about me:
 
 - 🔥 Worked on several enterprise level React, Node.js applications, Top rated Fullstack developer on Upwork
