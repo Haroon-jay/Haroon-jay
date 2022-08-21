@@ -1,7 +1,5 @@
 # Hey there! 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Haroon-jay&show_icons=true"/>](https://github.com/Haroon-jay/)
-
 <a href="https://www.linkedin.com/in/haroon-jawad-7942151ba/">
   <img align="left" alt="Haroon's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
